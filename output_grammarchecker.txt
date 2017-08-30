@@ -1,0 +1,14 @@
+output:
+number of errors:2
+Line 1, column 1, Rule ID: UPPERCASE_SENTENCE_START
+Message: This sentence does not start with an uppercase letter
+Suggestion: I
+i is student
+^
+Line 1, column 3, Rule ID: PERS_PRONOUN_AGREEMENT_SENT_START[1]
+Message: Did you mean 'am'?
+Suggestion: am
+i is student
+  ^^
+-------------------after correction-----------------------
+I am student
